@@ -1,5 +1,5 @@
 let listaDeNumerosSorteados = [];
-let numeroMax = 1000;
+let numeroMax = 100;
 function reiniciarJogo() {
     numeroSecreto = gerarNumeroAleatorio();
     limparCampo();
